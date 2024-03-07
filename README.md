@@ -3,6 +3,13 @@
 ## Overview
 This repo contains the models and associated part to build a remote zoom controller for a Canon 70-200 mm zoom lens. The goal is to enable a relatively simple path to building remote zoom control for DSLR and Mirrorless full frame lenses.
 
+## Components of the Lens Drive
+- [Pololu Tic T825 Stepper Motor Controller](https://www.pololu.com/product/3131)
+- [Faulhaber DM1220 Stepper Motor](https://www.faulhaber.com/en/products/series/dm1220/)
+- [Faulhaber 12 mm, 256:1 Planetary Gear Head](https://www.faulhaber.com/en/products/series/124/)
+- [Raspberry Pi3](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
+- [Stepper Driver Control Software](https://github.com/bioinspirlab/eyeris-camera-control/blob/main/server/libs/zoom_control.py)
+
 ## Using the existing models
 The models in this repro should work well with the second generation of the Canon 70-200 mm EF mount zoom lens. The parts were printed on a Multijet Fusion printer and have been tested during many field trials.
 
