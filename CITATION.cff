@@ -1,0 +1,7 @@
+@software{EyeRISZoomDrive,
+  author = {Paul L. D. Roberts},
+  title = {{EyeRIS Zoom Drive}},
+  url = {https://github.com/bioinspirlab/eyeris-zoom-drive},
+  version = {1.0.0},
+  year = {2024}
+}
